@@ -1,4 +1,4 @@
-#piano de 3 oitavas com samples do steinway & sons (B) de cauda. samples gratuitos disponibilizados em https://theremin.music.uiowa.edu/
+#piano de 3 oitavas com samples do steinway & sons (modelo B) de cauda. samples gratuitos disponibilizados em https://theremin.music.uiowa.edu/
 #3 octaves piano with free samples recorded from a grand steinway & sons (model B) avaiable on https://theremin.music.uiowa.edu/
 
 import tkinter as tk
